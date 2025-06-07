@@ -1,0 +1,11 @@
+1.What is the capital of France?|Paris
+2.What is 2 + 2?|4
+3.What is the color of the sky?|Blue
+4.What is the capital of Japan?|Tokyo
+5.Which animal says "meow"?|Cat
+6.How many legs does a spider have?|8
+7.What do bees make?|Honey
+8.What is the opposite of hot?|Cold
+9.What is 5 + 3?|8
+10.What is the capital of Italy?|Rome
+
